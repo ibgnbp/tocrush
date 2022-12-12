@@ -1,0 +1,23 @@
+body{
+    background-color: darksalmon;
+}
+
+
+h1{
+    color: rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    -webkit-text-stroke: 0.1vw black;
+    text-shadow: 0 0 10px white;
+}
+
+h2{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    -webkit-text-stroke: 0.1vw black;
+    text-shadow: 0 0 4px white;
+}
+
+li > img{
+    width: 400px;
+    height: 240px;
+}
